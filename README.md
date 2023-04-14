@@ -11,4 +11,4 @@ Para usar alguns templates é ainda necessário usar um snippet correspondente.
 
 | Template                        | Snipppet                            |
 | ------------------------------- | ----------------------------------- |
-| [YouTube](Templates/youtube.md) | [youtube.css](Snippets/youtube.css) |
+| [YouTube](Templates/youtube.md) | [youtube.css](snippets/youtube.css) |
