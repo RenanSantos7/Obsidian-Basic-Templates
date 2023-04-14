@@ -1,6 +1,6 @@
 # Obsidian-Basic-Templates
 
-Aqui há alguns templates básicos para usar no Obsidan. Alguns são notas completas, enquantor outros são apenas trechos de notas que você pode usar para ganhar mais produtividade.
+Aqui há alguns templates básicos para usar no [Obsidan](https://obsidian.md). Alguns são notas completas, enquantor outros são apenas trechos de notas que você pode usar para ganhar mais produtividade.
 
 Recomendo usar os seguintes plugins pelo menos:
 
