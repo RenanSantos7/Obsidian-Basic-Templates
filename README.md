@@ -4,7 +4,8 @@ Aqui há alguns templates básicos para usar no [Obsidan](https://obsidian.md). 
 
 Recomendo usar os seguintes plugins pelo menos:
 
-- Templater; e
+- Templater; 
+- Banners; e
 - dataview.
 
 Para usar alguns templates é ainda necessário usar um snippet correspondente.
