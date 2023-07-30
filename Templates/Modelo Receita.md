@@ -1,6 +1,6 @@
 ---
 tags: receitas 
-criação: <% tp.file.now() %>
+criação: <% tp.date.now("YYYY-MM-DD") %>
 link: 
 ---
 
